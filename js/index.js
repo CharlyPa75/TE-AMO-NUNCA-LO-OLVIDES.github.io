@@ -6,7 +6,7 @@ const documentReady = () => {
   const heroButtonNo = document.querySelector('#heroButtonNo');
 
   const nowZomosNobios = () => {
-    alert('💞 Now zomos Novios 💞');
+    alert('💞 Ya zomos Novios 💞');
     alert('😱Nuestra VoDa Es MañaNa😱');
     location.href = 'https://www.youtube.com/watch?v=TVY4fQEHmLk&ab_channel=songsSub';
   };
